@@ -87,19 +87,11 @@ I'm passionate about designing systems that are reliable, user-centric, and prod
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/yoshita-lakshmi-mitta">
-    <img src="https://skillicons.dev/icons?i=linkedin" /> 
-  </a>
-  <a href="mailto:mittayoshita22@gmail.com">
-    Email
-  </a>
-</p>
-<p>
+
 
 📧 **Email:**(mailto:mittayoshita22@gmail.com)
 
-💼 **LinkedIn:**https://www.linkedin.com/in/yoshita-lakshmi-mitta
+💼 LinkedIn:https://www.linkedin.com/in/yoshita-lakshmi-mitta
 
   
 </p>
