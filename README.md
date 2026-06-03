@@ -82,15 +82,6 @@ I'm passionate about designing systems that are reliable, user-centric, and prod
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoshita-22&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshita-22&hide_border=true" />
-</p>
 
 ---
 
@@ -100,9 +91,6 @@ I'm passionate about designing systems that are reliable, user-centric, and prod
   <a href="https://www.linkedin.com/in/yoshita-lakshmi-mitta">
     <img src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
-  ## 🤝 Let's Connect
-
-
   <a href="mailto:mittayoshita22@gmail.com">
     Email
   </a>
