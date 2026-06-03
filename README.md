@@ -89,7 +89,7 @@ I'm passionate about designing systems that are reliable, user-centric, and prod
 
 
 
-📧 **Email:**mittayoshita22@gmail.com
+📧 Email:mittayoshita22@gmail.com
 
 💼 LinkedIn:https://www.linkedin.com/in/yoshita-lakshmi-mitta
 
